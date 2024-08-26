@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Sameer959
-- 👀 I’m interested in web/App development
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Sameer959
 
-<!---
-Sameer959/Sameer959 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 A Full-Stack Developer passionate about creating dynamic web/App applications and scalable backend systems.
+
+🚀 Skills: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, SQL
+
+💼 Currently working as an intern in Systems Limited
+
+🌟 Always looking to learn new technologies and collaborate on exciting projects.
+
+📫 Feel free to reach out to me at sameerahmd385@gmail.com
+
+
